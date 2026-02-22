@@ -3,3 +3,4 @@
  pwd  -> mostra diretório de trabalho
 ls -a -> mostra também os arquivos ocultos
 rm -rf -> Remove a pasta e suas subpastas sem pedir permissão
+cat -> mostra informações dos arquivos
