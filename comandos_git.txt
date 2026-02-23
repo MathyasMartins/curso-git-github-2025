@@ -9,6 +9,7 @@ git reset -> remove  um arquivo adicionado à lista de prontos para o commit
 git checkout -b nome da branche -> cria uma branche secundária
 git checkout nome da branch -> muda de branch
 q -> sai do git log
+git merge nome da branch -> junta uma branch à outra (main)
 ## Editor de Textos no git
 nano -> editor de textos no git
 ## Fluxo de trabalho
