@@ -5,8 +5,9 @@ git commit -m "msn" -> faz commit do que estava pra ser commmitado
 git log -> mostra todo o histórico de commits
 git diff -> mostra o que foi alterado desde o ultimo commit do arquivo analisado
 git diff . -> mostra as alerações em todos os arquivos do repositório
-
-
+git reset -> remove  um arquivo adicionado à lista de prontos para o commit
+## Editor de Textos no git
+nano -> editor de textos no git
 ## Fluxo de trabalho
 1. criar diretório (pasta) do projeto
 2. iniciar o git dentro do diretório criado (git init .)
