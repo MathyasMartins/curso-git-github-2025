@@ -24,3 +24,6 @@ nano -> editor de textos no git
 7. git commit -m "mensagem"
 8. git status
 9. volta ao passo 3
+
+Como resolver conflitos de arquivos modificados?
+R= Separar bem o que o time irá modificar pra evitar conflitos
