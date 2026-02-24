@@ -9,3 +9,7 @@ curso e Visual Studio Code.
 
 Confira tudo o que temos feito no nosso canal do youtube.
 É grátis!
+
+Pessoas participantes:
+ - Matias Martins
+ - Teo
