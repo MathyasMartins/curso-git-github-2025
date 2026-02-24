@@ -17,7 +17,7 @@ git --help -> mostra os comandos e o que eles fazem
 git remote set-url origin (url do diretório no git) -> edita a url caso tenha inserido a url errada
 git remote -v -> mostra os repositórios remotos conectados ao projeto
 git config --global --list -> mostra o usuário e email conectados no git
-
+touch nome_arquivo.extensão -> cria um arquivo limpo
 
 
 
