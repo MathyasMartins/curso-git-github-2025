@@ -1,0 +1,2 @@
+Comandos GitHub:
+git remote add origin https://github.com/MathyasMartins/curso-git-github-2025.git -> Adiciona uma origem do repositório do gitHub para o repositório local

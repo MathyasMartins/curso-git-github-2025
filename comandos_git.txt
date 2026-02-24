@@ -11,7 +11,12 @@ git checkout -D nome da branch -> Deleta uma branch estando fora dela
 git checkout nome da branch -> muda de branch
 q -> sai do git log
 git merge nome da branch -> junta uma branch à outra (main)
-git 
+git remote add origin "endereço do repositório -> linka o meu repositório local para o repositório no gitHub
+git push origin main
+
+
+
+
 ## Editor de Textos no git
 nano -> editor de textos no git
 ## Fluxo de trabalho
