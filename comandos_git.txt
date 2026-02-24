@@ -12,7 +12,13 @@ git checkout nome da branch -> muda de branch
 q -> sai do git log
 git merge nome da branch -> junta uma branch à outra (main)
 git remote add origin "endereço do repositório -> linka o meu repositório local para o repositório no gitHub
-git push origin main
+git push origin main -> clona nosso repositório local e salva no github
+git --help -> mostra os comandos e o que eles fazem
+git remote set-url origin (url do diretório no git) -> edita a url caso tenha inserido a url errada
+git remote -v -> mostra os repositórios remotos conectados ao projeto
+git config --global --list -> mostra o usuário e email conectados no git
+
+
 
 
 
