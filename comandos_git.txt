@@ -18,7 +18,7 @@ git remote set-url origin (url do diretório no git) -> edita a url caso tenha i
 git remote -v -> mostra os repositórios remotos conectados ao projeto
 git config --global --list -> mostra o usuário e email conectados no git
 touch nome_arquivo.extensão -> cria um arquivo limpo
-
+git pull origin main -> clona o repositório remoto e salva no local
 
 
 
